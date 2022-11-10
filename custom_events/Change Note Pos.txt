@@ -1,0 +1,5 @@
+Switches player and opponent strums!
+
+Value1:
+On = Switch 
+Off = Back to Normal

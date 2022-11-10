@@ -1,0 +1,5 @@
+Switches the health when swapping icons!
+
+Value1: 
+[true]  = will switch
+[false] = will return back to normal

@@ -1,0 +1,4 @@
+Removes the swap icons!
+
+Value1: Fake icon tag of boyfriend
+Value2: Fake icon tag of dad

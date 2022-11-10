@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				-47,
-				-7
+				36,
+				-5
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				-20,
-				-51
+				-19,
+				-50
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-46,
-				28
+				0,
+				27
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,7 +46,7 @@
 		},
 		{
 			"offsets": [
-				1,
+				-38,
 				-7
 			],
 			"loop": false,
@@ -57,19 +57,8 @@
 		},
 		{
 			"offsets": [
-				-41,
-				19
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "BF NOTE RIGHT MISS"
-		},
-		{
-			"offsets": [
-				-14,
-				-21
+				-13,
+				-20
 			],
 			"loop": false,
 			"fps": 24,
@@ -79,7 +68,7 @@
 		},
 		{
 			"offsets": [
-				-43,
+				2,
 				24
 			],
 			"loop": false,
@@ -90,7 +79,7 @@
 		},
 		{
 			"offsets": [
-				2,
+				-39,
 				19
 			],
 			"loop": false,
@@ -112,8 +101,8 @@
 		},
 		{
 			"offsets": [
-				17,
-				18
+				20,
+				19
 			],
 			"loop": false,
 			"fps": 24,
@@ -124,7 +113,7 @@
 		{
 			"offsets": [
 				-4,
-				0
+				1
 			],
 			"loop": true,
 			"fps": 24,
@@ -134,7 +123,7 @@
 		},
 		{
 			"offsets": [
-				-1,
+				-31,
 				-16
 			],
 			"loop": false,
@@ -145,8 +134,8 @@
 		},
 		{
 			"offsets": [
-				299,
-				267
+				-3,
+				266
 			],
 			"loop": false,
 			"fps": 24,
@@ -156,8 +145,8 @@
 		},
 		{
 			"offsets": [
-				-28,
-				-40
+				0,
+				-34
 			],
 			"loop": false,
 			"fps": 24,

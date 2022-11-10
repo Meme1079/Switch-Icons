@@ -90,6 +90,17 @@
 		},
 		{
 			"offsets": [
+				-39,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF NOTE RIGHT MISS"
+		},
+		{
+			"offsets": [
 				-3,
 				5
 			],

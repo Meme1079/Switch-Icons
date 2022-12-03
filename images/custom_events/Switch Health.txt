@@ -1,0 +1,3 @@
+Switches the health when swapping icons!
+
+Value1: Will it be swap? (true or false)

@@ -1,0 +1,3 @@
+Switches player and opponent strums!
+
+Value 1: Will it be switch strums? (On or Off)

@@ -1,0 +1,11 @@
+Switches the icons!
+
+Value 1:
+[0] = Fake icon tag of boyfriend
+[1] = Fake icon path of boyfriend
+
+Value 2:
+[0] = Fake icon tag of dad
+[1] = Fake icon path of dad
+
+Note: Remember the tag of the fake icon when removing it!
